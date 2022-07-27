@@ -6,8 +6,8 @@ My passion for code naturally merges with the desire to be a lifelong learner an
 ---
 
 - 🌱 Loves being multidisciplinary. Problem solving. Take on new challenges.
-- 🧠 I’m currently focused on mastering the **MERN** stack.
-- 👯 I’m looking to collaborate on building accessible and human-oriented projects.
-- 📫 How to reach me on: [Linkedin](https://www.linkedin.com/in/pascal-racine-venne/)
+- 🧠 Currently focused on mastering the **MERN** stack.
+- 👯 Looking to collaborate on building accessible and human-oriented projects.
+- 📫 Get in touch: [Linkedin](https://www.linkedin.com/in/pascal-racine-venne/)
 - 🖥 Drop by and have a look at my: [Portfolio](https://pascalracinevenne.herokuapp.com/)
 - ⚡ Fun fact: I'm a vintage synth 🎹 and drums 🥁 aficionado
