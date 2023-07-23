@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
-I'm a web developer, musician, and teacher. Before stepping into the world of coding, I taught drums and computer-assisted music production.
-My passion for code naturally merges with the desire to be a lifelong learner and share knowledge with others.
+I'm a web developer, team manager, musician, and teacher. Before stepping into the world of coding, I taught drums and computer-assisted music production.
+My passion for code naturally merges with the desire to create and build things, be a lifelong learner and share knowledge with others.
 
 ---
 
