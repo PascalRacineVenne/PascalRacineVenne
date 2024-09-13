@@ -10,5 +10,4 @@ Being a lifelong learner and share knowledge with others is a blessing.
 - 🧠 Currently focused on mastering the **MERN** stack and spice things up with **Typescript**.
 - 👯 Looking to collaborate on building accessible and human-oriented projects.
 - 📫 Get in touch: [Linkedin](https://www.linkedin.com/in/pascal-racine-venne/)
-- 🖥 Drop by and have a look at my: [Portfolio](https://pascalracinevenne.herokuapp.com/)
 - ⚡ Fun fact: I'm a vintage synth 🎹 and drums 🥁 aficionado
